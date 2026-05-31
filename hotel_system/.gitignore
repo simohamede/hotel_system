@@ -7,8 +7,10 @@ __pycache__/
 .env
 
 # Dossier UML et venv
-uml/
 venv/
+Uml/
+*.vpp
+*.bak_*
 
 # Base de données Django (Pour forcer un test propre)
 hotel_system/db.sqlite3
